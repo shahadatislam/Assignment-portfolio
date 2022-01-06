@@ -1,0 +1,135 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    font-size:45px;
+    padding: 10px;
+    font-weight: bold;
+}
+.orange-color{
+    color: orangered;
+}
+.button{
+    background-image: linear-gradient(orange,tomato);
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 40px;
+}
+p{
+    text-align: justify;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.flexible-container{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top:5% ;
+   
+    
+}
+.half-width img{
+    width: 100%;
+}
+.my-mission{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 5%;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 10px;
+    
+}
+
+.stay-top{
+    border-left: 3px solid orangered;
+    line-height:15px;
+
+}
+
+.box{
+    width: 600px;
+    height: 400px;
+    border-radius: 20px;
+    padding:30px 30px 60px 30px ;
+    margin: 10px 20px;
+    box-shadow: 0px 0px 10px gray;
+    background-image:url(images/shapes/shape-4\ new.png);
+    background-size: cover;
+    text-align: left;
+
+}
+.box img{
+    width: 50%;
+}
+
+.box-two{
+    width: 600px;
+    height: 400px;
+    padding:30px 30px 60px 30px ;
+    border-radius: 20px;
+    margin: 10px 20px;
+    box-shadow: 0px 0px 10px gray;
+    background-image:url(images/shapes/shape-5new\ .png);
+    background-size: cover;
+
+}
+.box-two img{
+    width: 50%;
+}
+.background-image{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+}
+.background-second{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:right bottom;
+    background-size: 15%;
+}
+h3{
+    font-size: 30px;
+}
+#bold{
+    font-size: 40px;
+    font-weight:bold;
+}
+#blank-box{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+footer{
+    background-color: black;
+    margin-top: 5%;
+}
+#footer-title{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 3%;
+
+}
+.white-color{
+    color: white;
+}
+.red-color{
+    color: tomato;
+}
+#footer{
+    color: white;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+
